@@ -1,0 +1,35 @@
+.text-center{
+	text-align:center;
+}
+h1{
+	color:white;
+}
+h5{
+	color:white;
+}
+.btn-white{
+background-color:turquoise;
+}
+.btn-round{
+	border-radius:30px;
+}
+
+.bg-image{
+	background-size:cover;
+	padding-top:200px;
+	padding-bottom:200px;
+	background-image:url('http://d2f0ora2gkri0g.cloudfront.net/bkpam2213986_map.jpg');
+}
+
+.menu-image{
+	background-size:cover;
+	padding-top:25px;
+	padding-bottom:25px;
+	background-image: url('https://image.freepik.com/free-photo/white-wall_1154-636.jpg');
+}
+
+.iframe{
+	padding-top:200px;
+	padding-bottom:200px;
+	
+}
